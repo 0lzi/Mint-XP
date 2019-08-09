@@ -127,7 +127,7 @@ StScrollBar StButton#vhandle:hover {
 }
 .menu {
     border-radius: 8px;
-    background-color: rgba(80,80,80,0.9);
+    background-color: rgba(63,127,191,1);
     border-width: 2px;
     border-color: #a5a5a5;
     color: #ffffff;
@@ -249,7 +249,7 @@ StScrollBar StButton#vhandle:hover {
  * ===================================================================*/
 #panel {
     color: #ffffff;
-    background-color: #555555;
+    background-color: #4d9ad4;
     font-size: 8.5pt;
     font-weight: normal;
     height: 26px;
